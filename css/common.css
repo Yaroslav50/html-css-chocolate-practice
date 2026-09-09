@@ -1,3 +1,5 @@
+/* Common styles */
+
 body {
   font-family: Montserrat, sans-serif;
   font-size: 14px;
@@ -22,4 +24,31 @@ button {
 
 address {
   font-style: normal;
+}
+
+/* Base styles */
+
+.logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.11;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+}
+
+.logo-icon {
+}
+
+/* Socials */
+
+.socials {
+}
+
+.socials-item {
+}
+
+.socials-link {
+}
+
+.socials-icon {
 }
