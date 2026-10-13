@@ -131,9 +131,12 @@ img {
 /* Button */
 
 .btn {
+  padding: 14px 40px;
   background-color: transparent;
   border: none;
   font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 100px;
 }
 
 .btn-filled {
@@ -147,14 +150,17 @@ img {
 }
 
 .btn-outlined {
+  border-color: #fff;
 }
 
 .primary {
+  border-color: #fff;
   color: #fff;
 }
 
 .primary:hover,
 .primary:focus {
+  border-color: #fd9222;
   color: #fd9222;
 }
 
