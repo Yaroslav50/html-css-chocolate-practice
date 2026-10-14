@@ -166,6 +166,7 @@ img {
 
 .secondary {
   color: #111;
+  border-color: #fd9222;
 }
 
 .secondary:hover,
